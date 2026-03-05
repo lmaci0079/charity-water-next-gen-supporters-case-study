@@ -85,7 +85,7 @@ The full case study presentation includes:
 - Landing page strategy  
 - Final concept slides  
 
-👉 **[View the full slide deck (PDF)](INSERT_LINK_HERE)**  
+👉 **[View the full slide deck (PDF)](https://github.com/lmaci0079/charity-water-next-gen-supporters-case-study/blob/main/Activating%20the%20next%20generation%20of%20%20charity_%20water%20supporters.pdf)**  
 *(After you upload the PDF, GitHub will give you the file link. Replace INSERT_LINK_HERE with that link.)*
 
 ---
