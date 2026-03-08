@@ -138,6 +138,5 @@ The full case study presentation includes:
 **Created by:** Lizbeth Macias
 
 This project was completed as part of my internship program experience in the Global Career Accelerator.
-
 If you'd like to connect, collaborate, or view more of my work, feel free to explore my GitHub profile!
 
